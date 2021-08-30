@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951712124742",
+    "project_id": "emailauthfirebase-cd16d",
+    "storage_bucket": "emailauthfirebase-cd16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951712124742:android:6ce04a7dded7585fc31f47",
+        "android_client_info": {
+          "package_name": "com.example.emailauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951712124742-440foc3eb0434llfe47avnfjuh26s4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPJkOD9UCaMJUMcmLv_VdcWthvmYHV_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951712124742-440foc3eb0434llfe47avnfjuh26s4al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EmailAuthFirebase</string>
+    <string name="image">Image</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+
+    <string name="register_screen">REGISTER SCREEN</string>
+    <string name="login_screen">LOGIN SCREEN</string>
+    <string name="email_id">Email ID</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
